@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ef40415-dfdf-4a68-94da-bc9331b7f570" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fitness/tracker/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jaccessinspector.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jaccesswalker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jarsigner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/javaw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jcmd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jconsole.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jdb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jdeprscan.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jfr.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jhsdb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jmap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jmod.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jps.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jstack.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/jstatd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/keytool.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/ktab.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/rmiregistry.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/serialver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/server/classes.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/bin/server/jvm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/conf/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/conf/security/policy/limited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/include/win32/bridge/AccessBridgeCallbacks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/include/win32/bridge/AccessBridgePackages.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/include/win32/jni_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/jmods/java.base.jmod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.base/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.base/asm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.base/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.base/public_suffix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.base/unicode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.base/wepoll.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.datatransfer/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.datatransfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.desktop/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.instrument/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.logging/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.management/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.net.http/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.net.http/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.prefs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.scripting/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.security.jgss/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.security.sasl/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.security.sasl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.smartcardio/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.smartcardio/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.sql.rowset/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.sql.rowset/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.sql/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.transaction.xa/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.transaction.xa/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.xml/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.xml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.xml/bcel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/java.xml/jcup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.accessibility/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.accessibility/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.attach/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.attach/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.charsets/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.charsets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.crypto.cryptoki/pkcs11wrapper.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.crypto.ec/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.crypto.ec/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.dynalink/dynalink.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.editpad/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.hotspot.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.hotspot.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.httpserver/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.httpserver/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.incubator.foreign/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.incubator.foreign/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.ed/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.jvmstat/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.jvmstat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.le/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.le/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.opt/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.vm.ci/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.vm.compiler.management/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.vm.compiler/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.internal.vm.compiler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jartool/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.javadoc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.javadoc/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jcmd/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jconsole/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jdeps/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jdi/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jdi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jdwp.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jfr/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jfr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jlink/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jpackage/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jshell/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jsobject/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jsobject/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.jstatd/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.localedata/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.localedata/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.localedata/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.management.agent/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.management.agent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.naming.dns/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.naming.dns/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.naming.rmi/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.net/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.nio.mapmode/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.nio.mapmode/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.sctp/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.security.auth/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.unsupported.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.unsupported.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.xml.dom/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/legal/jdk.zipfs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/lib/ct.sym" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/lib/modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/lib/security/blocked.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/lib/security/default.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdk-17.0.10/lib/security/public_suffix_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/connect-distributed.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/connect-mirror-maker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/connect-standalone.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-acls.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-broker-api-versions.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-client-metrics.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-cluster.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-configs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-console-consumer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-console-producer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-delegation-tokens.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-delete-records.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-dump-log.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-e2e-latency.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-features.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-jmx.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-metadata-quorum.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-metadata-shell.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-reassign-partitions.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-replica-verification.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-server-stop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-streams-application-reset.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-verifiable-consumer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/kafka-verifiable-producer.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/connect-distributed.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/connect-plugin-path.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/connect-standalone.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-client-metrics.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-cluster.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-configs.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-delegation-tokens.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-delete-records.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-dump-log.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-e2e-latency.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-features.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-get-offsets.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-leader-election.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-metadata-quorum.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-mirror-maker.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-producer-perf-test.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-replica-verification.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-server-stop.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-storage.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/kafka-streams-application-reset.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/windows/zookeeper-server-start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/zookeeper-security-migration.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/zookeeper-server-start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/bin/zookeeper-server-stop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/connect-console-source.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/connect-distributed.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/connect-file-sink.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/connect-file-source.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/connect-mirror-maker.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/connect-standalone.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/kraft/controller.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/kraft/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/producer.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/server.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/config/zookeeper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/aopalliance-repackaged-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/argparse4j-0.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/commons-validator-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/connect-basic-auth-extension-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/connect-file-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/connect-mirror-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/connect-mirror-client-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/connect-transforms-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/error_prone_annotations-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/hk2-utils-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-core-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-databind-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-dataformat-csv-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-datatype-jdk8-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-jaxrs-base-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-module-jaxb-annotations-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jackson-module-scala_2.13-2.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jakarta.activation-api-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jakarta.annotation-api-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jakarta.validation-api-2.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jersey-common-2.39.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jersey-container-servlet-2.39.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jersey-server-2.39.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jetty-io-9.4.53.v20231009.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jetty-server-9.4.53.v20231009.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/jetty-util-ajax-9.4.53.v20231009.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-log4j-appender-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-metadata-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-server-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-shell-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-storage-api-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-streams-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-streams-examples-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-streams-scala_2.13-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-streams-test-utils-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-tools-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/kafka-tools-api-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/lz4-java-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/metrics-core-4.1.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/netty-buffer-4.1.100.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/netty-codec-4.1.100.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/opentelemetry-proto-1.0.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/osgi-resource-locator-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/plexus-utils-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/rocksdbjni-7.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/scala-collection-compat_2.13-2.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/scala-java8-compat_2.13-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/scala-library-2.13.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/snappy-java-1.1.10.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/swagger-annotations-2.2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/zookeeper-3.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/zookeeper-jute-3.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/libs/zstd-jni-1.5.5-6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/argparse-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/checker-qual-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/eclipse-distribution-license-1.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/eclipse-public-license-2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/jopt-simple-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/jsr305-BSD-3-clause" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/paranamer-BSD-3-clause" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/licenses/pcollections-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/logs/controller.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/logs/kafkaServer-gc.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/logs/log-cleaner.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/logs/server.log.2024-03-07-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/logs/state-change.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kafka_2.13-3.7.0/site-docs/kafka_2.13-3.7.0-site-docs.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled2/.idea/untitled2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eGSReG5VnkMTNzW1AA4c1DuqDp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "JUnit.TestFitnessTracker.executor": "Coverage",
+    "JUnit.TestFitnessTracker.getString.executor": "Run",
+    "JUnit.TestFitnessTracker.getTotalSteps.executor": "Run",
+    "JUnit.TestFitnessTracker.testAddMilesRun.executor": "Run",
+    "JUnit.TestFitnessTracker.testConsumeCalories.executor": "Coverage",
+    "JUnit.TestFitnessTracker.testDidRunMoreThanYesterday.executor": "Coverage",
+    "JUnit.TestFitnessTracker.testGetWeeklyWorkouts.executor": "Run",
+    "JUnit.TestFitnessTracker.testHasMetCalorieGoal.executor": "Run",
+    "JUnit.TestFitnessTracker.testLogWorkout.executor": "Run",
+    "JUnit.TestFitnessTracker.testResetDailyTracker.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.fitness.tracker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestFitnessTracker">
+    <configuration name="TestFitnessTracker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FitnessTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fitness.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
+      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFitnessTracker.testConsumeCalories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FitnessTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fitness.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
+      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
+      <option name="METHOD_NAME" value="testConsumeCalories" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFitnessTracker.testDidRunMoreThanYesterday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FitnessTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fitness.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
+      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
+      <option name="METHOD_NAME" value="testDidRunMoreThanYesterday" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFitnessTracker.testHasMetCalorieGoal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FitnessTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fitness.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
+      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
+      <option name="METHOD_NAME" value="testHasMetCalorieGoal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFitnessTracker.testResetDailyTracker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FitnessTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fitness.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
+      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
+      <option name="METHOD_NAME" value="testResetDailyTracker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFitnessTracker" />
+        <item itemvalue="JUnit.TestFitnessTracker.testDidRunMoreThanYesterday" />
+        <item itemvalue="JUnit.TestFitnessTracker.testResetDailyTracker" />
+        <item itemvalue="JUnit.TestFitnessTracker.testConsumeCalories" />
+        <item itemvalue="JUnit.TestFitnessTracker.testHasMetCalorieGoal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef40415-dfdf-4a68-94da-bc9331b7f570" name="Changes" comment="" />
+      <created>1711529417777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711529417777</updated>
+      <workItem from="1711529419044" duration="294000" />
+      <workItem from="1711529735408" duration="6303000" />
+      <workItem from="1711559602127" duration="6005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711572347985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.fitness.tracker.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker_testConsumeCalories.ic" NAME="TestFitnessTracker.testConsumeCalories Coverage Results" MODIFIED="1711570576309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.fitness.tracker.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker_testDidRunMoreThanYesterday.ic" NAME="TestFitnessTracker.testDidRunMoreThanYesterday Coverage Results" MODIFIED="1711571890425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.fitness.tracker.*</FILTER>
+    </SUITE>
+  </component>
+</project>
