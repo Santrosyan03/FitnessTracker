@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef40415-dfdf-4a68-94da-bc9331b7f570" name="Changes" comment="" />
+    <list default="true" id="5ef40415-dfdf-4a68-94da-bc9331b7f570" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FairyGardenManager/src/main/java/org/fairygardenmanager/FairyGardenManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FairyGardenManager/src/test/java/org/fairygardenmanager/FairyGardenManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/fitness/tracker/TestFitnessTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/fitness/tracker/TestFitnessTracker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Debug",
-    "JUnit.TestFitnessTracker.executor": "Coverage",
+    "JUnit.TestFitnessTracker.executor": "Run",
     "JUnit.TestFitnessTracker.getString.executor": "Run",
     "JUnit.TestFitnessTracker.getTotalSteps.executor": "Run",
     "JUnit.TestFitnessTracker.testAddMilesRun.executor": "Run",
@@ -169,6 +174,7 @@
       <workItem from="1711529419044" duration="294000" />
       <workItem from="1711529735408" duration="6303000" />
       <workItem from="1711559602127" duration="6533000" />
+      <workItem from="1711575499023" duration="446000" />
     </task>
     <servers />
   </component>
@@ -176,7 +182,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711572970602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711610028995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.fitness.tracker.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker_testConsumeCalories.ic" NAME="TestFitnessTracker.testConsumeCalories Coverage Results" MODIFIED="1711570576309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

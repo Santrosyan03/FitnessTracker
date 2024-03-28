@@ -1,11 +1,16 @@
 package org.fitness.tracker;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestFitnessTracker {
+    private FitnessTracker fitnessTracker;
 
-    FitnessTracker fitnessTracker = new FitnessTracker();
+    @BeforeEach
+    public void initialize() {
+        fitnessTracker = new FitnessTracker();
+    }
 
     @Test
     void testGetTotalSteps() {
