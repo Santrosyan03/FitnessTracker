@@ -90,22 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFitnessTracker.testConsumeCalories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FitnessTracker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.fitness.tracker.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
-      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
-      <option name="METHOD_NAME" value="testConsumeCalories" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestFitnessTracker.testDidRunMoreThanYesterday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FitnessTracker" />
       <extension name="coverage">
@@ -138,6 +122,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestFitnessTracker.testLogWorkout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FitnessTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fitness.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.fitness.tracker" />
+      <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
+      <option name="METHOD_NAME" value="testLogWorkout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFitnessTracker.testResetDailyTracker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FitnessTracker" />
       <extension name="coverage">
@@ -157,10 +157,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestFitnessTracker" />
+        <item itemvalue="JUnit.TestFitnessTracker.testLogWorkout" />
         <item itemvalue="JUnit.TestFitnessTracker.testGetTotalSteps" />
         <item itemvalue="JUnit.TestFitnessTracker.testDidRunMoreThanYesterday" />
         <item itemvalue="JUnit.TestFitnessTracker.testResetDailyTracker" />
-        <item itemvalue="JUnit.TestFitnessTracker.testConsumeCalories" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,7 @@
       <workItem from="1711529419044" duration="294000" />
       <workItem from="1711529735408" duration="6303000" />
       <workItem from="1711559602127" duration="6533000" />
-      <workItem from="1711575499023" duration="1198000" />
+      <workItem from="1711575499023" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -183,7 +183,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711610197181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711611467154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.fitness.tracker.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker_testConsumeCalories.ic" NAME="TestFitnessTracker.testConsumeCalories Coverage Results" MODIFIED="1711570576309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

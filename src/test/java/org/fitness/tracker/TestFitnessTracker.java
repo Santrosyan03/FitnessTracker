@@ -41,13 +41,26 @@ public class TestFitnessTracker {
     @Test
     @DisplayName("Test to log weekly workout.")
     void testLogWorkout() {
-        assertEquals("Monday workout logged for day 1", fitnessTracker.logWorkout(1, "Monday workout"));
-        assertEquals("Tuesday workout logged for day 2", fitnessTracker.logWorkout(2, "Tuesday workout"));
-        assertEquals("Wednesday workout logged for day 3", fitnessTracker.logWorkout(3, "Wednesday workout"));
-        assertEquals("Thursday workout logged for day 4", fitnessTracker.logWorkout(4, "Thursday workout"));
-        assertEquals("Friday workout logged for day 5", fitnessTracker.logWorkout(5, "Friday workout"));
-        assertEquals("Saturday workout logged for day 6", fitnessTracker.logWorkout(6, "Saturday workout"));
-        assertEquals("Sunday workout logged for day 7", fitnessTracker.logWorkout(7, "Sunday workout"));
+        String[] expectedWorkouts = {
+                "Monday workout logged for day 1",
+                "Tuesday workout logged for day 2",
+                "Wednesday workout logged for day 3",
+                "Thursday workout logged for day 4",
+                "Friday workout logged for day 5",
+                "Saturday workout logged for day 6",
+                "Sunday workout logged for day 7"
+        };
+
+        fitnessTracker.logWorkout(1, "Monday workout logged for day 1");
+        fitnessTracker.logWorkout(2, "Tuesday workout logged for day 2");
+        fitnessTracker.logWorkout(3, "Wednesday workout logged for day 3");
+        fitnessTracker.logWorkout(4, "Thursday workout logged for day 4");
+        fitnessTracker.logWorkout(5, "Friday workout logged for day 5");
+        fitnessTracker.logWorkout(6, "Saturday workout logged for day 6");
+        fitnessTracker.logWorkout(7, "Sunday workout logged for day 7");
+
+        String[] actualWorkouts = fitnessTracker.getWeeklyWorkouts();
+        assertArrayEquals(expectedWorkouts, actualWorkouts);
     }
 
     @Test
