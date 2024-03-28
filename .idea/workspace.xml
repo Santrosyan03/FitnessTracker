@@ -49,6 +49,7 @@
     "JUnit.TestFitnessTracker.testAddMilesRun.executor": "Run",
     "JUnit.TestFitnessTracker.testConsumeCalories.executor": "Coverage",
     "JUnit.TestFitnessTracker.testDidRunMoreThanYesterday.executor": "Coverage",
+    "JUnit.TestFitnessTracker.testGetTotalSteps.executor": "Run",
     "JUnit.TestFitnessTracker.testGetWeeklyWorkouts.executor": "Run",
     "JUnit.TestFitnessTracker.testHasMetCalorieGoal.executor": "Run",
     "JUnit.TestFitnessTracker.testLogWorkout.executor": "Run",
@@ -121,7 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFitnessTracker.testHasMetCalorieGoal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFitnessTracker.testGetTotalSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FitnessTracker" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +132,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.fitness.tracker" />
       <option name="MAIN_CLASS_NAME" value="org.fitness.tracker.TestFitnessTracker" />
-      <option name="METHOD_NAME" value="testHasMetCalorieGoal" />
+      <option name="METHOD_NAME" value="testGetTotalSteps" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,10 +157,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestFitnessTracker" />
+        <item itemvalue="JUnit.TestFitnessTracker.testGetTotalSteps" />
         <item itemvalue="JUnit.TestFitnessTracker.testDidRunMoreThanYesterday" />
         <item itemvalue="JUnit.TestFitnessTracker.testResetDailyTracker" />
         <item itemvalue="JUnit.TestFitnessTracker.testConsumeCalories" />
-        <item itemvalue="JUnit.TestFitnessTracker.testHasMetCalorieGoal" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +175,7 @@
       <workItem from="1711529419044" duration="294000" />
       <workItem from="1711529735408" duration="6303000" />
       <workItem from="1711559602127" duration="6533000" />
-      <workItem from="1711575499023" duration="446000" />
+      <workItem from="1711575499023" duration="1198000" />
     </task>
     <servers />
   </component>
@@ -182,7 +183,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711610028995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker.ic" NAME="TestFitnessTracker Coverage Results" MODIFIED="1711610197181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.fitness.tracker.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/FitnessTracker$TestFitnessTracker_testConsumeCalories.ic" NAME="TestFitnessTracker.testConsumeCalories Coverage Results" MODIFIED="1711570576309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
